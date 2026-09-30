@@ -1,0 +1,6 @@
+.build/
+.module-cache/
+dist/
+DerivedData/
+*.xcuserstate
+.DS_Store
